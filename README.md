@@ -4,7 +4,7 @@
 - 🔭 Hoje trabalho com Desenvolvimento Full Stack
 - 🌱 Estudando Java | Spring Boot 
 - 💻 Trainee no Grupo FCamara
-- 📓 Tenho formação em Flutter pela Cubos Academy em parceria com o Nubank
+- 📓 Tenho formação em Flutter pela Cubos Academy
 - 📓 Formada em Sistema de Informação pela Universidade do Estado da Bahia
 - 😄 Pronouns: ela/dela
 

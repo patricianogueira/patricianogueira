@@ -6,7 +6,6 @@
 - 💻 Trainee no Grupo FCamara
 - 📓 Tenho formação em Flutter pela Cubos Academy
 - 📓 Formada em Sistema de Informação pela Universidade do Estado da Bahia
-- 😄 Pronouns: ela/dela
 
 ##
  <br>
